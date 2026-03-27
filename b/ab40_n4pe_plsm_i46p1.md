@@ -1,0 +1,370 @@
+<div style="position:sticky; padding-top:0; padding-bottom:0; left:0; top:0; height:10%; background-color:rgb(0, 138, 173); width:95%; box-sizing:border-box"
+height="10%" bgcolor="rgb(0, 138, 173)" width="95%">
+
+<div class="banner"
+style="display:inline; background-color:rgb(46, 45, 98); padding-top:4px; padding-bottom:4px; max-width:90%; border-width:0; margin:0"
+bgcolor="rgb(46, 45, 98)">
+
+<img src="images/NSHDLogo.png"
+style="display:inline; max-width:15%; height:auto; padding-top:20px; margin:0 auto; float:left"
+data-align="left" alt="National Survey of Health &amp; Development" />
+
+#   MRC National Survey of Health and Development  
+
+<img src="images/ukrimrc.png"
+style="display:inline; max-width:15%; height:auto; padding-top:20px; margin:0 auto; float:left"
+data-align="left" alt="UKRI" />
+
+</div>
+
+</div>
+
+- <a href="logout?go=home"
+  style="font-weight:bold; font-family:arial; font-style:normal; font-size:0.8vw; color:#E7E5E5; text-decoration:none; display:block; padding-top:0.6em; padding-right:0.6em; padding-bottom:0.6em; padding-left:0.6em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #000">Home</a>
+
+- <a href="#"
+  style="font-weight:bold; font-family:arial; font-style:normal; font-size:0.8vw; color:#E7E5E5; text-decoration:none; display:block; padding-top:0.6em; padding-right:0.6em; padding-bottom:0.6em; padding-left:0.6em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #000">Search</a>
+  - <a href="search?type=c&amp;id=4CA47710FB043146D3AFF82BD7E8D2F3"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">By
+    Category</a>
+  - <a href="search?type=n&amp;id=4CA47710FB043146D3AFF82BD7E8D2F3"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">By
+    Variable Name</a>
+  - <a href="search?type=k&amp;id=4CA47710FB043146D3AFF82BD7E8D2F3"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">By
+    Keyword</a>
+  - <a href="search?type=l&amp;id=4CA47710FB043146D3AFF82BD7E8D2F3"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">By
+    Library</a>
+
+- <a href="#"
+  style="font-weight:bold; font-family:arial; font-style:normal; font-size:0.8vw; color:#E7E5E5; text-decoration:none; display:block; padding-top:0.6em; padding-right:0.6em; padding-bottom:0.6em; padding-left:0.6em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #000">Baskets</a>
+  - <a href="basket?command=saveNew&amp;id=4CA47710FB043146D3AFF82BD7E8D2F3"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">Save
+    Basket</a>
+  - <a href="basket?id=4CA47710FB043146D3AFF82BD7E8D2F3"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">View
+    Current Basket</a>
+  - <a href="previousBasket?id=4CA47710FB043146D3AFF82BD7E8D2F3"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">Load/Share
+    My Basket</a>
+  - <a href="sharedBasket?id=4CA47710FB043146D3AFF82BD7E8D2F3"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">Load
+    Shared Basket</a>
+  - <a href="retrieve?id=4CA47710FB043146D3AFF82BD7E8D2F3"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">Download
+    Basket</a>
+
+- <a href="#"
+  style="font-weight:bold; font-family:arial; font-style:normal; font-size:0.8vw; color:#E7E5E5; text-decoration:none; display:block; padding-top:0.6em; padding-right:0.6em; padding-bottom:0.6em; padding-left:0.6em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #000">More...</a>
+  - <a href="logout?id=4CA47710FB043146D3AFF82BD7E8D2F3"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">Logout</a>
+  - <a href="https://skylark.ucl.ac.uk/NSHD/access/help-guides/"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">Help</a>
+  - <a href="changeRegistration"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">Update
+    Contact Details</a>
+  - <a href="changePassword"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">Change
+    Password</a>
+
+- 
+
+- <div>
+
+  </div>
+
+<div class="results"
+style="font-family:Montserrat, sans-serif; font-size:0.8vw; color:black; margin-top:2%; padding-top:0.6em; padding-right:0.6em; padding-bottom:0.4em; padding-left:0.6em; background-color:white; display:block"
+bgcolor="white">
+
+<div class="results"
+style="font-family:Montserrat, sans-serif; font-size:0.8vw; color:black; margin-top:2%; padding-top:0.6em; padding-right:0.5em; padding-bottom:0.6em; padding-left:0.5em; background-color:white; display:block; border-collapse:separate; margin:2em"
+bgcolor="white">
+
+## Variable Metadata
+
+|  |  |
+|:---|:---|
+| **Variable** | ab40_n4pe_plsm_i46p1 |
+| **Field ID** | 61915 |
+| **Label** | Plasma Ab40 from Neuro 4-Plex E assay (N4PE), pg/ml - Insight46 phase 1 |
+| **Card Number** | I46_simoabloods2 |
+| **Form** | Insight46 - Phase 1 |
+| **Question** | Not applicable |
+| **Year** | 2015-2018 |
+| **Derived Status** | 0 |
+| **Later Version** | NA |
+| **Units** | pg/ml |
+| **Sensitive** | 0 |
+| **Reason Public** | NA |
+| **Reason Sensitive** | NA |
+| **Notes** | Simoa blood biomarkers tested on Insight phase 1 plasma and serum samples from the LWBL/UKDRI biobank |
+
+## Linked and Longitudinal Variables
+
+There are no associated variables.
+
+## Associated Documents
+
+|  |  |
+|:---|:---|
+| Questionnaires | <a href="https://skylark.ucl.ac.uk/NSHD/exploring/nshd-questionnaires/"
+target="_blank">View</a> |
+| Document | <a href="./PDF/filepath/I46_simoabloods2/Docs_simoaBloods2_I46W1.docx"
+target="_blank">View
+./PDF/filepath/I46_simoabloods2/Docs_simoaBloods2_I46W1.docx</a> |
+
+## Category Memberships
+
+|  |  |
+|:---|:---|
+| <a href="#" onclick="this.parentNode.submit()">Blood biomarkers
+[60372]</a> | This category contains measurements in plasma or serum of neurofilament light (NFL), total tau, amyloid-beta 40, amyloid-beta 42, ptau-181 (phase 1), and ptau-217 (phases 1 and 2) |
+
+## Value Labels
+
+| Value | Label                |
+|:------|:---------------------|
+| -9.0  | Unknown              |
+| -99.0 | No aliquot available |
+
+## Frequency Distribution For ab40_n4pe_plsm_i46p1
+
+<div class="skip-filter"
+style="border-collapse:separate; padding-top:0.6em; padding-right:0.5em; padding-bottom:0.6em; padding-left:0.5em; margin:2em">
+
+<table
+style="width:80%; display:inline-table; border:none; border-style:none; border-collapse:collapse; table-layout:fixed; padding-top:10px; padding-right:10px; padding-bottom:10px; padding-left:10px; margin:2px"
+width="80%">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr
+style="border-top-left-radius:10px; -webkit-border-top-left-radius:10px; -moz-border-radius-topleft:10px; border-top-right-radius:10px; -webkit-border-top-right-radius:10px; -moz-border-radius-topright:10px">
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 75%; word-wrap: break-word;"
+width="75%"><img
+src="data:image/png;base64,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"
+alt="Histogram/Bar Chart Plot" /></td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140"><table
+style="width:80%; display:inline-table; border:none; border-style:none; border-collapse:collapse; table-layout:fixed; padding-top:10px; padding-right:10px; padding-bottom:10px; padding-left:10px; margin:2px"
+width="80%">
+<thead>
+<tr
+style="border-top-left-radius:10px; -webkit-border-top-left-radius:10px; -moz-border-radius-topleft:10px; border-top-right-radius:10px; -webkit-border-top-right-radius:10px; -moz-border-radius-topright:10px">
+<th class="skip-filter"
+style="text-align: left; padding: 7px; word-wrap: break-word; margin: 2px; background-color: PowderBlue; color: black; border: 0;"
+data-bgcolor="PowderBlue">Item</th>
+<th class="skip-filter"
+style="text-align: left; padding: 7px; word-wrap: break-word; margin: 2px; background-color: PowderBlue; color: black; border: 0;"
+data-bgcolor="PowderBlue">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2"
+style="text-align: center; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Summary Statistics</td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Minimum</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">74.1</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Decile 1</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">85.657942</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Decile 2</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">101.569646</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Decile 3</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">106.175798</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Decile 4</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">110.898126</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Decile 5</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">114.645358</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Decile 6</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">120.0</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Decile 7</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">124.672297</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Decile 8</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">131.0</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Decile 9</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">139.7</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Maximum</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">158.0</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Mean</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">115.070233</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Std Dev.</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">19.243112</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Variance</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">370.297359</td>
+</tr>
+<tr
+style="border-bottom-left-radius:10px; -webkit-border-bottom-left-radius:10px; -moz-border-radius-bottomleft:10px; border-bottom-right-radius:10px; -webkit-border-bottom-right-radius:10px; -moz-border-radius-bottomright:10px">
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Series Size</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">444</td>
+</tr>
+</tbody>
+</table>
+<p>Statistics relate to plotted values only.</p></td>
+</tr>
+<tr
+style="border-bottom-left-radius:10px; -webkit-border-bottom-left-radius:10px; -moz-border-radius-bottomleft:10px; border-bottom-right-radius:10px; -webkit-border-bottom-right-radius:10px; -moz-border-radius-bottomright:10px">
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Missing values and distribution outside 5 and 95 percentiles
+removed</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140"></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="cookieBanner" class="cookie-banner"
+style="position:fixed; bottom:0; left:0; right:0; background:rgb(0, 138, 173); color:black; padding:20px; box-shadow:0 -4px 12px rgba(0, 0, 0, 0.15); z-index:1000; transform:translatey(100%); transition:transform 0.5s ease-out">
+
+<div class="cookie-content"
+style="max-width:1200px; margin:0 auto; display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between">
+
+<div class="cookie-text"
+style="flex:1; min-width:300px; padding-right:20px">
+
+### Condor uses cookies
+
+We use strictly necessary cookies to solely to support core
+functionality and customise content for you. We do not use cookies for
+marketing, analytics, or traffic analysis. By clicking "Accept", you
+consent to our use of cookies. If you reject cookies you cannot use the
+Condor website. See the NSHD website
+<a href="https://skylark.ucl.ac.uk/NSHD/cookies/" class="link"
+style="color:sandybrown; text-decoration:none">Cookie Policy</a>
+
+</div>
+
+<div class="cookie-actions" style="display:flex; flex-wrap:wrap">
+
+Reject
+
+Accept
+
+</div>
+
+</div>
+
+</div>
+
+<table
+style="width:90%; display:inline-table; border:0; border-style:none; border-collapse:collapse"
+width="90%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="padding: 10px; border: 0; width: 140px" width="140"><a
+href="https://skylark.ucl.ac.uk/NSHD/access/help-guides/">Help</a>
+<strong>Problems?</strong> <a
+href="mailto:MRCLHA.Swiftinfo@ucl.ac.uk">Contact LHA</a><br />
+Version: Condor 3.0</td>
+</tr>
+</tbody>
+</table>

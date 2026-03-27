@@ -1,0 +1,374 @@
+<div style="position:sticky; padding-top:0; padding-bottom:0; left:0; top:0; height:10%; background-color:rgb(0, 138, 173); width:95%; box-sizing:border-box"
+height="10%" bgcolor="rgb(0, 138, 173)" width="95%">
+
+<div class="banner"
+style="display:inline; background-color:rgb(46, 45, 98); padding-top:4px; padding-bottom:4px; max-width:90%; border-width:0; margin:0"
+bgcolor="rgb(46, 45, 98)">
+
+<img src="images/NSHDLogo.png"
+style="display:inline; max-width:15%; height:auto; padding-top:20px; margin:0 auto; float:left"
+data-align="left" alt="National Survey of Health &amp; Development" />
+
+#   MRC National Survey of Health and Development  
+
+<img src="images/ukrimrc.png"
+style="display:inline; max-width:15%; height:auto; padding-top:20px; margin:0 auto; float:left"
+data-align="left" alt="UKRI" />
+
+</div>
+
+</div>
+
+- <a href="logout?go=home"
+  style="font-weight:bold; font-family:arial; font-style:normal; font-size:0.8vw; color:#E7E5E5; text-decoration:none; display:block; padding-top:0.6em; padding-right:0.6em; padding-bottom:0.6em; padding-left:0.6em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #000">Home</a>
+
+- <a href="#"
+  style="font-weight:bold; font-family:arial; font-style:normal; font-size:0.8vw; color:#E7E5E5; text-decoration:none; display:block; padding-top:0.6em; padding-right:0.6em; padding-bottom:0.6em; padding-left:0.6em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #000">Search</a>
+  - <a href="search?type=c&amp;id=83F012AF7522B7B8D3A1BE8DC971A3B2"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">By
+    Category</a>
+  - <a href="search?type=n&amp;id=83F012AF7522B7B8D3A1BE8DC971A3B2"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">By
+    Variable Name</a>
+  - <a href="search?type=k&amp;id=83F012AF7522B7B8D3A1BE8DC971A3B2"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">By
+    Keyword</a>
+  - <a href="search?type=l&amp;id=83F012AF7522B7B8D3A1BE8DC971A3B2"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">By
+    Library</a>
+
+- <a href="#"
+  style="font-weight:bold; font-family:arial; font-style:normal; font-size:0.8vw; color:#E7E5E5; text-decoration:none; display:block; padding-top:0.6em; padding-right:0.6em; padding-bottom:0.6em; padding-left:0.6em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #000">Baskets</a>
+  - <a href="basket?command=saveNew&amp;id=83F012AF7522B7B8D3A1BE8DC971A3B2"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">Save
+    Basket</a>
+  - <a href="basket?id=83F012AF7522B7B8D3A1BE8DC971A3B2"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">View
+    Current Basket</a>
+  - <a href="previousBasket?id=83F012AF7522B7B8D3A1BE8DC971A3B2"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">Load/Share
+    My Basket</a>
+  - <a href="sharedBasket?id=83F012AF7522B7B8D3A1BE8DC971A3B2"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">Load
+    Shared Basket</a>
+  - <a href="retrieve?id=83F012AF7522B7B8D3A1BE8DC971A3B2"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">Download
+    Basket</a>
+
+- <a href="#"
+  style="font-weight:bold; font-family:arial; font-style:normal; font-size:0.8vw; color:#E7E5E5; text-decoration:none; display:block; padding-top:0.6em; padding-right:0.6em; padding-bottom:0.6em; padding-left:0.6em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #000">More...</a>
+  - <a href="logout?id=83F012AF7522B7B8D3A1BE8DC971A3B2"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">Logout</a>
+  - <a href="https://skylark.ucl.ac.uk/NSHD/access/help-guides/"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">Help</a>
+  - <a href="changeRegistration"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">Update
+    Contact Details</a>
+  - <a href="changePassword"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">Change
+    Password</a>
+
+- 
+
+- <div>
+
+  </div>
+
+<div class="results"
+style="font-family:Montserrat, sans-serif; font-size:0.8vw; color:black; margin-top:2%; padding-top:0.6em; padding-right:0.6em; padding-bottom:0.4em; padding-left:0.6em; background-color:white; display:block"
+bgcolor="white">
+
+<div class="results"
+style="font-family:Montserrat, sans-serif; font-size:0.8vw; color:black; margin-top:2%; padding-top:0.6em; padding-right:0.5em; padding-bottom:0.6em; padding-left:0.5em; background-color:white; display:block; border-collapse:separate; margin:2em"
+bgcolor="white">
+
+## Variable Metadata
+
+|  |  |
+|:---|:---|
+| **Variable** | abrs382 |
+| **Field ID** | 28135 |
+| **Label** | How old were you when you stopped living abroad? 3rd time - at age 36 years |
+| **Card Number** | B12 |
+| **Form** | A - Main questionnaire |
+| **Question** | 16 (c) |
+| **Year** | 1982 |
+| **Derived Status** | 0 |
+| **Later Version** | NA |
+| **Units** | years |
+| **Sensitive** | 0 |
+| **Reason Public** | NA |
+| **Reason Sensitive** | NA |
+| **Notes** | Questions about living abroad asked in the 1989 A questionnaire. |
+
+## Linked and Longitudinal Variables
+
+| Variable | Description | Year | Form | Question | Library File |
+|:---|:---|:---|:---|:---|:---|
+| [abrs182](variable?command=displayCard&name=abrs182) | How old were you when you stopped living abroad? 1st time - at age 36 years | 1982 | A - Main questionnaire | 16 (c) | B12 |
+| [abrs282](variable?command=displayCard&name=abrs282) | How old were you when you stopped living abroad? 2nd time - at age 36 years | 1982 | A - Main questionnaire | 16 (c) | B12 |
+| [abrs482](variable?command=displayCard&name=abrs482) | How old were you when you stopped living abroad? 4th time - at age 36 years | 1982 | A - Main questionnaire | 16 (c) | B12 |
+
+## Associated Documents
+
+|  |  |
+|:---|:---|
+| Questionnaires | <a href="https://skylark.ucl.ac.uk/NSHD/exploring/nshd-questionnaires/"
+target="_blank">View</a> |
+
+## Category Memberships
+
+|  |  |
+|:---|:---|
+| <a href="#" onclick="this.parentNode.submit()">Other socioeconomic
+circumstances [24]</a> | Legacy Category |
+| <a href="#" onclick="this.parentNode.submit()">Household [5152]</a> | This category contains data on the housing, household composition, number of children/grandchildren, whether living with partner, number of vehicles and pets. |
+
+## Value Labels
+
+| Value   | Label            |
+|:--------|:-----------------|
+| -9.0    | Unknown          |
+| -9999.0 | No questionnaire |
+| 88.0    | Not applicable   |
+| 99.0    | Unknown          |
+
+## Frequency Distribution For abrs382
+
+<div class="skip-filter"
+style="border-collapse:separate; padding-top:0.6em; padding-right:0.5em; padding-bottom:0.6em; padding-left:0.5em; margin:2em">
+
+<table
+style="width:80%; display:inline-table; border:none; border-style:none; border-collapse:collapse; table-layout:fixed; padding-top:10px; padding-right:10px; padding-bottom:10px; padding-left:10px; margin:2px"
+width="80%">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr
+style="border-top-left-radius:10px; -webkit-border-top-left-radius:10px; -moz-border-radius-topleft:10px; border-top-right-radius:10px; -webkit-border-top-right-radius:10px; -moz-border-radius-topright:10px">
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 75%; word-wrap: break-word;"
+width="75%"><img
+src="data:image/png;base64,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q1evdj725ptvqmvXroqMjNSHH354y2upyAhglGCMEX+d5j4bAfxz3nrrres+1qpVKyUmJnqwmitKaz2bNGmS1q1bp759++q9994r9lhgYKDWr1+v1NRUTZkyRdOmTSvx/MLCwp9t49oA/qnxvNU8sX75+/srNTVVqampWrhwoZ555hlJV65gtWbNGn3xxRdKSUlRnz59blkNBQUFt+y1ywoC+BbZv3+/HA6HIiIiFBcXp5ycHCUnJzt/eZo2bercOmnfvn2J57/22msKCQlRSEiI3nzzzRKPz549W+3atVPfvn1dni3oD3/4gy5cuKDNmzerWrVqys/P1/LlyzVx4kRJ0pNPPimHw6GwsDDnJewcDoeefPJJde/eXceOHdOQIUMUFRUlh8NR4o/Tly1bVuyMMWFhYTp79qw2bdqkTp06qXPnznrsscckXZm8RowY4Vz22i2M7Oxsde7cWdKVS+vdd999kqSnnnpKq1atkiT9+9//1gMPPKA2bdroP//5j6Qrf1QfHh6u8PBw5wSRnJys2NhY9erVS82bN9eWLVuKtbV3795ik0afPn20d+9el+/XtXs4XG0ZvfTSS2rXrp2ioqI0e/Zsvf/++zp69KgcDodeeOEFZWVl6eGHH1ZERESxSwg2adJEY8aMUUREhB555BEZY7RmzRp17dpVvXr1UqtWrfTJJ59Iko4cOaIePXooKipKsbGxunTpkiRpwoQJCg0N1eDBg4ud4ceVJk2aKD8/X61atXJObHPnztWcOXOKvT9NmjTRk08+qfDwcOdWXkFBgeLj4+VwODRhwgSX45CUlKSoqCi1bdtWc+bMcd6/adMm3X///WrTpo02b94sqeR65mp8JkyYoMjISLVp08a5lXXy5Ek5HA5FR0fr1VdfdbZxzz33SJJSU1NLnM/3eiffHzx4sEaNGqWYmBht27btJ8fywoULSk5O1nPPPec8H3LRGEyePFnx8fHq2bOn2rVrp8WLFys6OlqtWrX6yfX0Ruzdu1eRkZEKDw9XTEyMsrKySqxfV1u9erUiIyMVFhamhIQE54ebcePGqVOnTho+fLjuuusuSdK5c+fUu3dvRUVFKTo6WqdOnSr2Wl5eXvLz8ysxbh9++KECAgLUrVs39e7du8TzrjcvfPXVV86t5kceeUSFhYVKT09X165d5XA45HA4dPLkSefYPv3004qKitKePXsUEhKiyMhI9ejR44bHrtzw6IkvK5hDhw6ZmjVrmoiICBMREWFCQ0NNRESEMcaYBx980GzYsMEYY8zEiRPN/PnzzeHDh01sbKw5ceKE6dmzpxk+fLjZvXu3SUhIKPa6p0+fNq1btzY5OTkmOzvbNG/e3Jw7d84sWLDAPP/88+aHH34wbdq0MXl5eSYjI8PUqVPHHDp0qNhrTJ482XzyySdm2rRppmfPnmbDhg1m/PjxZtWqVWbZsmXm8ccfN8YY8+OPP5pOnToZY4yJiIgwH3zwgTHGmLlz55qZM2caY4zZv3+/eeCBB4q9fkFBgWnbtq3Jy8szX331lYmLizPGGNO+fXtz+PBhY4wxCQkJZsWKFSYlJcU8+uijzue6Ot9q165dzblz50xsbKzp2bOnyc3NNWFhYSYrK8tMmjTJjBs3zhhjzJtvvmmeffZZU1hYaNq0aWMuXrxojLlyjucdO3aYBQsWmN69extjjElNTTX9+/cv0ZbD4TDp6enmzJkzpkuXLtd9vw4dOmS6d+/+k3W3atXKnD171jkm1y730ksvmalTpxpjrlz+rGicgoKCzNatW40xxgwePNgsX77cpKSkmBYtWpi8vDxz7tw506RJE2PMlfOLb9++3RhjzGuvvWaSkpLMjh07zH333WeMMebo0aPGz8+vRG2TJk0yCxcuLFbTE088YVauXGmMMaZLly7m9OnTxd6foKAg57mLIyMjzYEDB8xHH31kRo8ebYwxZvPmzSYoKKhEW5mZmcaYK+d2Dg4ONpcvXzYLFiwwMTExxhhj/vOf/7hcz643PkWvd+HCBdOsWTNn7YsWLTLGXLlU4aBBg5ztT58+3Tz55JMl6jLGmJ07d5qOHTua+vXrmy1bthhjjBk0aJB54YUXjDHmpsfy6vGcNGmSs90pU6aYvn37GmOMefvtt39yPb0RWVlZznVq8uTJ5vXXXy/W9rWKxsyYK+vUF198YbZv3+58D67u24QJE8xHH31kjDHms88+M0888USJ1zt58qTp3LmzqVu3rvn3v/9tjDFm+PDhJi4uzhQWFpolS5YUew+Muf68EB4ebo4fP26MuXJZxo8//tjk5uaanJwcY4wxycnJ5q9//asx5so6uG3bNmOMMTNnznRekrJoLCoSX9sfAMq7Dh06aMWKFZKuHAOOi4uTJB04cEAdO3aUJHXq1EmfffaZHn30UR05ckSrV69W//799c477yglJUWRkZHFXvPgwYNq0aKF85R1wcHBOnr0qPPxQ4cOqUWLFvL19VW1atVcnqovMjJSS5Ys0bFjxzRhwgSlpKRo48aNmjJliubMmaMvvvjCebz66iu0hIaGSpJ2796tTZs26V//+pckOS9BVsTb21sxMTH69NNPlZKSokceeUSSdPHiRQUFBTn7/d133zk/PUu67i7H8PBwffHFF/L29naOV6VKlfSrX/1KktS2bVtJUoMGDbRp0yalp6fr0KFDzku9XbhwwTlGVy/rau/AwIED9c4778gYo4SEBEmu369rT7HnqvY5c+YoMTFReXl5GjlyZImrw3z33Xfq16+f83WLtg58fHzUrl07SVJISIhznNq0aSNfX1/VqFFD1atX14ULF7Rnzx7nLuKcnBw5HA7t379fISEhkqTf/va3+s1vfuNyXK+VkJCgl19+WY0aNVKNGjVKnLbS399f9957b7HxO3DggHMvTfv27Z1blFdbvHixFixYIC8vL508edJ5LLboeXfddZfL9ex64/PKK69o6dKl8vHx0aFDhyRd2atUNA4hISHat2+f8/U++OCDEns7irRq1UqbNm3Sjh07NGLECG3durVYDe6OZZHWrVtLurK7u+jyfIGBgdqwYcN119Oi50jS0KFD9f333yshIUF//vOfnfcfO3ZMiYmJunjxos6cOeMcp+v55ptvNHHiROXm5urYsWNyOBxKT093vgdX92337t1at26dXn75ZRUUFOh3v/tdiderV6+e1q1b59zijomJUa1atRQaGiovLy9FR0frueeeK/ac680Le/bsUXx8vCTp0qVL+s1vfqNz585p1KhROn36tDIzM53zRKVKlZy/G0OGDNHUqVMVHx+vli1b6qmnnrqBd6T8IIBvkbvvvlubN29Wp06dtHHjRv3+97+XJLVs2VIvv/yyli5dqtTUVL311ltavHhxsec2bNhQX331lfLy8lRYWKg9e/aoQYMG2rFjh/Pxr7/+Wvn5+crOzi42ERXp2LGjEhMTddddd6ljx46aOHGiAgICFBAQoODgYMXExDh3YeXm5jqfVzSBBAcHKzg4WKNHjy6xTJFHHnlEo0eP1qlTp5xf4qlataqOHDmioKAgbdy4UfHx8apZs6bS0tIkSdu3b3c5XpGRkRo3bpxzd+Rjjz1WbJfT1R8AzP8/YX/jxo21bNkyVa5cWcYYFRQU6J133imx7LX69u2r++67T/n5+Vq5cuV1368aNWro+PHjkqQTJ044d5FdrU2bNurcubPS0tIUGxurrVu3Os8z6+XlpXvuuUcbN26Uw+Eoth4UFBRox44datu2rbZt2+bcLb5r1y4VFBQoMzNTFy5cUPXq1dW0aVNNnjxZzZo1c74Xu3fvdh6HTEtLc1mbK+3atdO3336rV199VQMGDCjx+LUftIwxaty4sdasWaNBgwZp+/btLo+ZTpkyRfv27ZO3t7eaNWvmHPei9/vQoUPOy/JJ/13PXI3P2bNn9d5772nnzp3FPtDdfffd2rp1q4KCgpwhWmTIkCEur02bk5Mjf39/Sf89+f61Ndx9990/O5aVKlVSfn5+ifuvHbMbXU+v9vrrr7t83VdeeUWDBw9Wnz59NHnyZOeYXr1+XW3atGl6/vnn1a5dOw0ePNj53r377ruSpOPHjzv7Fhwc7AxVqeTvd25urvz8/OTl5aVq1aqpatWqkq4cPli6dKkGDx583Yt/uJoX7r33Xi1evFh169aVJOXl5WnOnDnq2LGjxo8fr+TkZK1Zs0aSin3A8/f314svvijpymG1nj17lptzg98IAvgWmT59uoYPHy7pyifJomM/kZGR2rJli+rWravIyEgtW7asxKfPunXr6tFHH3VuTY0dO1Y1atQo9viAAQPUsWNHNW7cWA0bNizRfqVKlVSjRg116NBBvr6+qly5svOTcExMjNavXy+HwyEvLy+1aNFCs2fPLvb8YcOGadSoUYqKipIxRt26dStx/CooKEj5+fmKiYlx/tLMmjVLcXFx8vb2VsuWLdW9e3dJV36RHA5Hia39IiEhIdq9e7fmzp2r1q1b67vvvtPf/va3646vl5eXZsyY4ZxAfH199cYbb1x3+atVqVJFwcHBunz5sqpVqybJ9fsVEBCgqKgohYaGKiQkxDl5XC0hIUHp6enKyclxfljp1auXYmJi9MADD2jYsGFKSEhQeHi4vL29nZNtQECAFi5cqLFjx6phw4aKjo5Wamqq6tWrp969e+vw4cPOLwzNnDlTo0ePdh77HTdunGJiYtS0aVOFhobq3nvvVf369W+o75L00EMPaebMmSW2Xn5q+Q8++EARERFq27ZtsRArcv/99yssLEzBwcHF1lV/f3/FxMTo5MmTLr885Gp8atasqcaNG6tLly5q2bKlM7ifeuopxcfH6/XXXy+xzm/ZssU5/lfbsGFDiZPvX6tNmzY/O5bdunXT2LFjtXTpUr3//vs/O2ZFrreeFl3M4Kc8+OCDeuKJJ/T222+rZs2aznni6vXr6u9W9OvXTwMHDlSTJk2cHy7atm2rRo0aKTQ0VMHBwQoMDJQkPfPMMxoxYoTz+tEDBgxwbq1K0vfff++8KEZeXp5zuT/+8Y9avny5c++Zqw8PruaF2bNna8CAAcrLy5O3t7dmzJihbt26qX///kpJSXF+yLrWwoULlZycLG9vb9155526++67f3bcyhXP7/VGRdKjR48Sx5/Lg0cffdSsXbvWWvuujuNde6y8LMnNzTXGXDkGXHRMEeVD0Xt39OhR07p1a4+0WV7nBU9jCxhuyc7OVq9evdSkSROXx4/Ksv79+ys/P19dunSxXUq50adPH50/f145OTnFvoGMsu/xxx/Xvn37lJmZ+ZN7lUpDeZ4XbOByhAAAWMDfAQMAYAEBDACABQQwAAAWEMAAAFhAAAMAYAEBDACABQQwAAAWEMAAAFhAAAMAYAEBDACABQQwAAAW/D/2BwJP/yu/mAAAAABJRU5ErkJggg=="
+alt="Histogram/Bar Chart Plot" /></td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140"><table
+style="width:80%; display:inline-table; border:none; border-style:none; border-collapse:collapse; table-layout:fixed; padding-top:10px; padding-right:10px; padding-bottom:10px; padding-left:10px; margin:2px"
+width="80%">
+<thead>
+<tr
+style="border-top-left-radius:10px; -webkit-border-top-left-radius:10px; -moz-border-radius-topleft:10px; border-top-right-radius:10px; -webkit-border-top-right-radius:10px; -moz-border-radius-topright:10px">
+<th class="skip-filter"
+style="text-align: left; padding: 7px; word-wrap: break-word; margin: 2px; background-color: PowderBlue; color: black; border: 0;"
+data-bgcolor="PowderBlue">Item</th>
+<th class="skip-filter"
+style="text-align: left; padding: 7px; word-wrap: break-word; margin: 2px; background-color: PowderBlue; color: black; border: 0;"
+data-bgcolor="PowderBlue">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2"
+style="text-align: center; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Summary Statistics</td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Minimum</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">19</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Decile 1</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">22.0</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Decile 2</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">26.0</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Decile 3</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">28.0</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Decile 4</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">29.6</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Decile 5</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">30.0</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Decile 6</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">31.0</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Decile 7</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">31.0</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Decile 8</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">32.2</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Decile 9</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">33.0</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Maximum</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">34</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Mean</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">28.88</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Std Dev.</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">4.236225</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Variance</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">17.9456</td>
+</tr>
+<tr
+style="border-bottom-left-radius:10px; -webkit-border-bottom-left-radius:10px; -moz-border-radius-bottomleft:10px; border-bottom-right-radius:10px; -webkit-border-bottom-right-radius:10px; -moz-border-radius-bottomright:10px">
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Series Size</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">25</td>
+</tr>
+</tbody>
+</table>
+<p>Statistics relate to plotted values only.</p></td>
+</tr>
+<tr
+style="border-bottom-left-radius:10px; -webkit-border-bottom-left-radius:10px; -moz-border-radius-bottomleft:10px; border-bottom-right-radius:10px; -webkit-border-bottom-right-radius:10px; -moz-border-radius-bottomright:10px">
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Missing values and distribution outside 5 and 95 percentiles
+removed</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140"></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="cookieBanner" class="cookie-banner"
+style="position:fixed; bottom:0; left:0; right:0; background:rgb(0, 138, 173); color:black; padding:20px; box-shadow:0 -4px 12px rgba(0, 0, 0, 0.15); z-index:1000; transform:translatey(100%); transition:transform 0.5s ease-out">
+
+<div class="cookie-content"
+style="max-width:1200px; margin:0 auto; display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between">
+
+<div class="cookie-text"
+style="flex:1; min-width:300px; padding-right:20px">
+
+### Condor uses cookies
+
+We use strictly necessary cookies to solely to support core
+functionality and customise content for you. We do not use cookies for
+marketing, analytics, or traffic analysis. By clicking "Accept", you
+consent to our use of cookies. If you reject cookies you cannot use the
+Condor website. See the NSHD website
+<a href="https://skylark.ucl.ac.uk/NSHD/cookies/" class="link"
+style="color:sandybrown; text-decoration:none">Cookie Policy</a>
+
+</div>
+
+<div class="cookie-actions" style="display:flex; flex-wrap:wrap">
+
+Reject
+
+Accept
+
+</div>
+
+</div>
+
+</div>
+
+<table
+style="width:90%; display:inline-table; border:0; border-style:none; border-collapse:collapse"
+width="90%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="padding: 10px; border: 0; width: 140px" width="140"><a
+href="https://skylark.ucl.ac.uk/NSHD/access/help-guides/">Help</a>
+<strong>Problems?</strong> <a
+href="mailto:MRCLHA.Swiftinfo@ucl.ac.uk">Contact LHA</a><br />
+Version: Condor 3.0</td>
+</tr>
+</tbody>
+</table>

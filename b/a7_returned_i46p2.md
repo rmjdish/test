@@ -1,0 +1,295 @@
+<div style="position:sticky; padding-top:0; padding-bottom:0; left:0; top:0; height:10%; background-color:rgb(0, 138, 173); width:95%; box-sizing:border-box"
+height="10%" bgcolor="rgb(0, 138, 173)" width="95%">
+
+<div class="banner"
+style="display:inline; background-color:rgb(46, 45, 98); padding-top:4px; padding-bottom:4px; max-width:90%; border-width:0; margin:0"
+bgcolor="rgb(46, 45, 98)">
+
+<img src="images/NSHDLogo.png"
+style="display:inline; max-width:15%; height:auto; padding-top:20px; margin:0 auto; float:left"
+data-align="left" alt="National Survey of Health &amp; Development" />
+
+#   MRC National Survey of Health and Development  
+
+<img src="images/ukrimrc.png"
+style="display:inline; max-width:15%; height:auto; padding-top:20px; margin:0 auto; float:left"
+data-align="left" alt="UKRI" />
+
+</div>
+
+</div>
+
+- <a href="logout?go=home"
+  style="font-weight:bold; font-family:arial; font-style:normal; font-size:0.8vw; color:#E7E5E5; text-decoration:none; display:block; padding-top:0.6em; padding-right:0.6em; padding-bottom:0.6em; padding-left:0.6em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #000">Home</a>
+
+- <a href="#"
+  style="font-weight:bold; font-family:arial; font-style:normal; font-size:0.8vw; color:#E7E5E5; text-decoration:none; display:block; padding-top:0.6em; padding-right:0.6em; padding-bottom:0.6em; padding-left:0.6em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #000">Search</a>
+  - <a href="search?type=c&amp;id=4CA47710FB043146D3AFF82BD7E8D2F3"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">By
+    Category</a>
+  - <a href="search?type=n&amp;id=4CA47710FB043146D3AFF82BD7E8D2F3"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">By
+    Variable Name</a>
+  - <a href="search?type=k&amp;id=4CA47710FB043146D3AFF82BD7E8D2F3"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">By
+    Keyword</a>
+  - <a href="search?type=l&amp;id=4CA47710FB043146D3AFF82BD7E8D2F3"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">By
+    Library</a>
+
+- <a href="#"
+  style="font-weight:bold; font-family:arial; font-style:normal; font-size:0.8vw; color:#E7E5E5; text-decoration:none; display:block; padding-top:0.6em; padding-right:0.6em; padding-bottom:0.6em; padding-left:0.6em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #000">Baskets</a>
+  - <a href="basket?command=saveNew&amp;id=4CA47710FB043146D3AFF82BD7E8D2F3"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">Save
+    Basket</a>
+  - <a href="basket?id=4CA47710FB043146D3AFF82BD7E8D2F3"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">View
+    Current Basket</a>
+  - <a href="previousBasket?id=4CA47710FB043146D3AFF82BD7E8D2F3"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">Load/Share
+    My Basket</a>
+  - <a href="sharedBasket?id=4CA47710FB043146D3AFF82BD7E8D2F3"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">Load
+    Shared Basket</a>
+  - <a href="retrieve?id=4CA47710FB043146D3AFF82BD7E8D2F3"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">Download
+    Basket</a>
+
+- <a href="#"
+  style="font-weight:bold; font-family:arial; font-style:normal; font-size:0.8vw; color:#E7E5E5; text-decoration:none; display:block; padding-top:0.6em; padding-right:0.6em; padding-bottom:0.6em; padding-left:0.6em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #000">More...</a>
+  - <a href="logout?id=4CA47710FB043146D3AFF82BD7E8D2F3"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">Logout</a>
+  - <a href="https://skylark.ucl.ac.uk/NSHD/access/help-guides/"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">Help</a>
+  - <a href="changeRegistration"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">Update
+    Contact Details</a>
+  - <a href="changePassword"
+    style="font-weight:normal; font-family:Montserrat, sans-serif; font-style:normal; font-size:0.8vw; color:#424242; text-decoration:none; display:block; padding-top:0.6em; padding-right:0; padding-bottom:0.6em; padding-left:0.5em; margin:0.2em; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px; text-shadow:2px 2px 3px #FFF">Change
+    Password</a>
+
+- 
+
+- <div>
+
+  </div>
+
+<div class="results"
+style="font-family:Montserrat, sans-serif; font-size:0.8vw; color:black; margin-top:2%; padding-top:0.6em; padding-right:0.6em; padding-bottom:0.4em; padding-left:0.6em; background-color:white; display:block"
+bgcolor="white">
+
+<div class="results"
+style="font-family:Montserrat, sans-serif; font-size:0.8vw; color:black; margin-top:2%; padding-top:0.6em; padding-right:0.5em; padding-bottom:0.6em; padding-left:0.5em; background-color:white; display:block; border-collapse:separate; margin:2em"
+bgcolor="white">
+
+## Variable Metadata
+
+|  |  |
+|:---|:---|
+| **Variable** | a7_returned_i46p2 |
+| **Field ID** | 61596 |
+| **Label** | Adult Memory and Information Processing Battery (AMIPB): 7-day figure drawing returned? - Insight46 phase 2 |
+| **Card Number** | I46P2_neuropsychology |
+| **Form** | Insight46 - Phase 2 |
+| **Question** | Not applicable |
+| **Year** | 2018-2021 |
+| **Derived Status** | 0 |
+| **Later Version** | NA |
+| **Units** | Not applicable |
+| **Sensitive** | 0 |
+| **Reason Public** | NA |
+| **Reason Sensitive** | NA |
+| **Notes** | Insight46 phase 2 AMIPB complex figure drawing test of visual memory recall. Participants are asked to copy a complex figure as accurately as possible, and then to draw it from memory immediately afterwards, at 30 minutes, and at 7 days. Figure version 1 was used in phase 2. Not performed in phase 1. |
+
+## Linked and Longitudinal Variables
+
+There are no associated variables.
+
+## Associated Documents
+
+|  |  |
+|:---|:---|
+| Questionnaires | <a href="https://skylark.ucl.ac.uk/NSHD/exploring/nshd-questionnaires/"
+target="_blank">View</a> |
+| Document | <a
+href="./PDF/filepath/I46P2_neuropsychology/Docs_NeuroPsyc_Binding_I46W2.docx"
+target="_blank">View
+./PDF/filepath/I46P2_neuropsychology/Docs_NeuroPsyc_Binding_I46W2.docx</a> |
+| Document | <a
+href="./PDF/filepath/I46P2_neuropsychology/Docs_NeuroPsyc_ChoiceRT_I46W2.docx"
+target="_blank">View
+./PDF/filepath/I46P2_neuropsychology/Docs_NeuroPsyc_ChoiceRT_I46W2.docx</a> |
+| Document | <a
+href="./PDF/filepath/I46P2_neuropsychology/Docs_NeuroPsyc_CircleTracing_I46W2.docx"
+target="_blank">View
+./PDF/filepath/I46P2_neuropsychology/Docs_NeuroPsyc_CircleTracing_I46W2.docx</a> |
+| Document | <a
+href="./PDF/filepath/I46P2_neuropsychology/Docs_NeuroPsyc_Cognitive_I46W2.docx"
+target="_blank">View
+./PDF/filepath/I46P2_neuropsychology/Docs_NeuroPsyc_Cognitive_I46W2.docx</a> |
+| Document | <a
+href="./PDF/filepath/I46P2_neuropsychology/Docs_NeuroPsyc_MMSE_I46W2.docx"
+target="_blank">View
+./PDF/filepath/I46P2_neuropsychology/Docs_NeuroPsyc_MMSE_I46W2.docx</a> |
+| Document | <a
+href="./PDF/filepath/I46P2_neuropsychology/Docs_I46P2_NeuroPsyc_RespInhib_I46W2.docx"
+target="_blank">View
+./PDF/filepath/I46P2_neuropsychology/Docs_I46P2_NeuroPsyc_RespInhib_I46W2.docx</a> |
+
+## Category Memberships
+
+|  |  |
+|:---|:---|
+| <a href="#" onclick="this.parentNode.submit()">Visuo-constructional
+ability and visual memory [60431]</a> | This category contains information about the Adult Memory and Information Processing Battery (AMIPB) complex figure drawing carried out by the participants in the Insight46 sub-study. |
+
+## Value Labels
+
+| Value | Label |
+|:------|:------|
+| 0.0   | No    |
+| 1.0   | Yes   |
+
+## Frequency Distribution For a7_returned_i46p2
+
+<div class="skip-filter"
+style="border-collapse:separate; padding-top:0.6em; padding-right:0.5em; padding-bottom:0.6em; padding-left:0.5em; margin:2em">
+
+<table
+style="width:80%; display:inline-table; border:none; border-style:none; border-collapse:collapse; table-layout:fixed; padding-top:10px; padding-right:10px; padding-bottom:10px; padding-left:10px; margin:2px"
+width="80%">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr
+style="border-top-left-radius:10px; -webkit-border-top-left-radius:10px; -moz-border-radius-topleft:10px; border-top-right-radius:10px; -webkit-border-top-right-radius:10px; -moz-border-radius-topright:10px">
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 75%; word-wrap: break-word;"
+width="75%"><img
+src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAeAAAAFACAYAAABkyK97AAAAOXRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjguMiwgaHR0cHM6Ly9tYXRwbG90bGliLm9yZy8g+/7EAAAACXBIWXMAAAxOAAAMTgF/d4wjAAAlGklEQVR4nO3deXSV9Z3H8U8STAAXRIFJ2xQKAgkUUNaQheQmrAqNiGUpa9qyCIICEfTgUWg7stRChRGcAafQosg4BSoqeCpoAh02wWERkYCEdVgDhD3b/c4fnNzmkpsAgv4SfL/O8Rzvzb3P8/0+v+d5Ps/mNcjMTAAA4DsV7LoAAAC+jwhgAAAcIIABAHCAAAYAwAECGAAABwhgAAAcIIABAHCAAAYAwAECGAAABwhgAAAcIIABAHCgzAAeNGiQunXrVurfo6Kiypx40d+3bt2qf/zjHwE/U7duXQ0fPtz3+g9/+IOCgoLKnG5516VLF+3fv9/vvQULFmjq1Kllfm/48OFKSEjQxx9//C1WJ73++uu+f9+6datmzJhxS9PzeDyKjY1VbGysRo0adavlfSPHjh3T+PHjb2kakyZNUuPGjeXxeNSmTZvrjsO1y7G0dfxWjBgxQllZWb7XEydOVJMmTfw+U9Y2lJ6erqeeekqSlJqaqhYtWighIUG9evVSfn6+FixYoHr16snj8ah169Z66623JEm7d+/WmDFjyqzt4MGD8ng88ng8iouL0wMPPHDdfq63z7ieyZMnKyYmRgsXLtTo0aN1+vTpW5rezTh27Jg8Hs9tmdZHH32kRYsW3ZZplaX4OvptKxrbd955RzExMWrevLnefffdG/5+amqqNmzYcFPzvN464PF4dOzYsRLvB1ou8+fPV5UqVXyvL126pMGDB6t9+/byeDy6ePHiDdVU2jwDKTWAL1++rKysLOXm5io7O/uGJlaasnZOYWFh2rt3rwoKCiRJq1at0kMPPXRL87seM1N5/H9QZGRkaM2aNerYseN1P+v1er/xfIqvfI888ojGjh37jadVZOnSpVq3bp327t2r9evX+97/rpZ1eHi4fv/739/ydF5++WWlp6dryZIlevnll8v87K0EcGFh4XU/c+TIEWVnZ6tu3bq+9z7++GM1a9ZM27Zt8713M9vQnDlztGbNGj3wwAP661//KkkaOnSo0tPTlZGRod/97neSpMjISB04cKDMbb927dpKT09Xenq6xo0bp549e16/8Vu0aNEi/c///I8GDBig11577YZCvzQ3MgbX803X7y5duqhv3763PH+p7D5uJoBv17basmVLrVu3Tunp6Zo8efItT68s33QduHa5XLlyRUuWLFHt2rV97/3mN79R3759tXr1aqWnp+vuu+++5XqvVWoAv//+++revbv69OnjO4rxer0aMGCAPB6Pnn32Wd9nix+5BDrTmzlzpubOnSuPx6OTJ0+WmFeHDh20atUqZWZmql69eqpUqZIkKS8vT7/85S+VnJwsj8ejr776StLVI620tDS1bdtWaWlpeumllxQXF6d+/fpJuroiDR06VO3atVNcXJy2bNki6eqRybhx49S5c2f97ne/8w1CQUGBWrRoUWJFHjhwoJKSktSqVSutWbPG1+vQoUP12GOPKTY21nf0NXPmTLVq1Uq9evW67gFLVFSUxo0bp4SEBA0cOFCSNGrUKO3fv18ej0cHDx7U3LlzFR0drejoaP35z3+WdPUMLTU1VSkpKVq+fLnq1q2rwYMHq3nz5po+fbqGDx+u1q1b64UXXpAkffnll0pKSlJCQoK6du2qS5cu6b/+6798Zy6vvvqq3xnS8uXLFR0drZiYGE2ZMsU3nj169NATTzyhpk2bauPGjWX29vDDD/umX7SsDx06pJ49eyoxMVHJycnat2+fJOmTTz5RXFycPB6PJkyYIElavHix4uPjFRsbq9mzZ/vea9WqlZKTkzVhwgSZmX7xi18oPj5eSUlJWrNmjfbv368uXbr4xnnMmDHq2LGjOnfurPz8fElSWlqaYmNjNXToUNWrV6/MPnJyclStWjVfnUlJSYqLi9OAAQNkZpo5c6avz4ULF5ZYxz/55BMlJCQoISHB19uCBQvUu3dvde/eXdOmTVN8fLxvfmlpaVqxYoVfDcuWLfM7GNu0aZNatWqlX//61yXOnkrbhkrzyCOP6ODBg37vXbhwwW8nk5ycrPfff1+SNHXqVH355ZelTu/tt98OGCil7TMWLVqkpKQktWnTRs8//7wkafz48frggw8kSdnZ2WrXrp3ftF555RXt27dPycnJ2rRpk+9M4/z583rsscfUoUMHpaWl+c5Si5+JTJo0SYsXL9b+/fsVHR2tAQMGaNSoUdq2bZvat2+vpKQk/epXvypxYHvhwgV169ZNHTp00L/+67/63i++fh85ckSdOnWSx+NRTEyMvvzyS125csU3vlOnTtWjjz4qSXr++ee1evVqv/1k3bp1NXToUEVHR+vFF1+UpFJ7Ki4qKkovvPCCkpOTdebMGT355JNKTk5Wly5ddOzYsRLbevF5Xru9FPXy9ttvq2PHjurVq5eaNGmi9957T5J04MABPfbYY0pOTlaPHj18Z4Pjx49XTEyMUlNTlZubK0lq2LChgoKClJGRoaZNm5ayxpRu//79atOmjfr166fmzZvrjTfekFRyP1B8jMtaXtOmTfPbF1y77UrSrFmz9NRTT/ldff3000+1fPlyeTwev7EvsmDBAj3++OPq1q2bWrRo4Xf2fu08JZVYRyRJVoonn3zSjh07Zjk5OdaxY0czM1u6dKk99dRTZma2YcMGq1OnjpmZDRo0yNavX29mZvPnz7cpU6aYmVlkZGSJ964VGRlpWVlZlpqaapMmTbKMjAzf9+bMmWPTp083M7PMzExLSUkxM7M6derYzp07zev1WoMGDezDDz80M7P27dvbnj17bNmyZTZkyBDf92JjY83MLDEx0f77v//bzMzOnj1r8fHxZmb23nvv2fPPP1+itgsXLpiZWVZWlrVr187X67/927+ZmdlvfvMbmzdvnh0/ftxatGhh+fn5du7cOatZs6ZlZWX5Tav4MqhTp47t2LHDzMySkpJsz549fsvrxIkT1rx5c8vNzbUrV65Y06ZN7cyZMzZx4kR7+umnfdOsUqWKnTx50i5fvmz33HOPb5lERkbalStX7NKlS1ZYWGhmZpMmTbI333zTbz5mZp9++qkNGzbMCgsLLTIy0s6ePWuFhYXm8Xhs165dNn/+fHvyySfNzCwjI8P69etXYjklJiba0aNHLS8vz2JjY23btm1+y/qPf/yjvfLKK2Zmtnr1auvTp495vV5r1KiRnThxwszMCgoKLDs722JjYy0/P9+8Xq95PB47fvy4/exnP7Nt27aZmVlhYaGdOnXKWrZsaV6v1/deVlaWde7c2VfP+++/b2Zmv/zlL+3jjz+2LVu2WNeuXc3M7ODBg3bXXXeV6GPixInWqFEjS0hIsAcffNDee+89v/XAzCw1NdVWrVpVYjkWH1+v12stWrSw8+fPm5lZ37597fPPP7f58+f7aih6f/v27Zafn2/Nmze3goICv3pGjBhhn376qe/1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BrZs2aJ58+b5AlgKvA1da86cOb5AvFZoaKjCwsJ05swZRURE6Ouvvy7xwFcgb7/9tqZPn+57/eabb/r+fenSpQH3GRMmTNCqVatUo0YNJScn+5bpwIEDlZaWpoceesh3MHg99evX1+bNm5WYmKjPPvvM937Rfik8PFxbtmxRo0aNJPlvQ02aNNG7777rC8Ciy4VFGjRooE2bNikxMVGbNm3y+1vRdD766CPdfffdWrt2rdLT0zVp0iRJUlJSktLS0ny3X0aOHKnHHnusRP2Btt3Seiqu+PpX9PBg165dJf1zX1l8W69evbpvWkW35a7t5dp6isalUaNGmjRpkn7605/6pv/FF1/oL3/5iyTp8OHDfttUy5Yt9YMf/KBEzfXr11d6enrAfooLtA7XrVvXbz9QPIDLWl6B+im+7DIzMzV58mRNnjxZhw8f1oABA7Rw4UIlJCTo888/V6tWrbR582b16NGjRE1FyzErK0vVq1cvdZ6B1hEzCxzAixYt0n/+53/6Xrdv316vvPKKPvvsMy1ZskSJiYlq06aN7wjl17/+tfr27auFCxcGvCEeFxen2bNna+vWrZo7d27AzwRqbsiQIRoxYoRvA+3YsaPv2n9ZUlJS9MEHHyg+Pl5er1czZ84M+Ll27dpp6NChAY9+oqKidOHCBd81+6Kz0UBq1aql/v37q23btqpfv77fQzPfRK1atTRs2DDFxcVJksaMGaP777//pqfz+OOP65lnntHChQtVvXp131HxE088oa5duyolJcX35GJwcLDvvkVwcLC6deumRo0aXfee740YMmSIBgwYoISEBAUHB+vNN99UcHCwZs2apW7duiksLEyxsbGaPHmyhg8frqSkJIWEhCgsLEzLli3TuHHjtGPHDuXn52vYsGE6ceKE+vTpo5CQEOXl5d3QgyYtW7bUQw89pJiYGDVu3LjUM7zf/va3+vd//3ddunRJw4cPV7Vq1dS7d28NHDhQUVFRfjuq1q1b64knnlD//v1LrOPTpk3z7QwrVarktz0VCQoKUkpKilauXOl3BaRI9+7dNXbsWA0ePFiLFi3SgAEDfH9r0aKFMjIy/AIj0DZ0I+bOnauPPvpIubm5io+P9923W716tebNmyfp6n3MlJSUEld3jh49qhMnTujhhx8OOO3HH3884D6jX79+at++vRo1auQ7G5Ckn//853rm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"
+alt="Histogram/Bar Chart Plot" /></td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140"><table
+style="width:80%; display:inline-table; border:none; border-style:none; border-collapse:collapse; table-layout:fixed; padding-top:10px; padding-right:10px; padding-bottom:10px; padding-left:10px; margin:2px"
+width="80%">
+<thead>
+<tr
+style="border-top-left-radius:10px; -webkit-border-top-left-radius:10px; -moz-border-radius-topleft:10px; border-top-right-radius:10px; -webkit-border-top-right-radius:10px; -moz-border-radius-topright:10px">
+<th colspan="2"
+style="text-align: center; padding: 7px; word-wrap: break-word; margin: 2px; background-color: PowderBlue; color: black; border: 0;"
+data-bgcolor="PowderBlue">Frequency Table</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th class="skip-filter"
+style="text-align: left; padding: 7px; word-wrap: break-word; margin: 2px; background-color: PowderBlue; color: black; border: 0;"
+data-bgcolor="PowderBlue">Value</th>
+<th class="skip-filter"
+style="text-align: left; padding: 7px; word-wrap: break-word; margin: 2px; background-color: PowderBlue; color: black; border: 0;"
+data-bgcolor="PowderBlue">Count</th>
+</tr>
+&#10;<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">0.0</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">14</td>
+</tr>
+<tr>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">1.0</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">419</td>
+</tr>
+<tr
+style="border-bottom-left-radius:10px; -webkit-border-bottom-left-radius:10px; -moz-border-radius-bottomleft:10px; border-bottom-right-radius:10px; -webkit-border-bottom-right-radius:10px; -moz-border-radius-bottomright:10px">
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Series Size</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">433</td>
+</tr>
+</tbody>
+</table>
+<p>Statistics relate to plotted values only.</p></td>
+</tr>
+<tr
+style="border-bottom-left-radius:10px; -webkit-border-bottom-left-radius:10px; -moz-border-radius-bottomleft:10px; border-bottom-right-radius:10px; -webkit-border-bottom-right-radius:10px; -moz-border-radius-bottomright:10px">
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140">Missing values have been removed and low cell counts
+excluded</td>
+<td
+style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
+width="140"></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="cookieBanner" class="cookie-banner"
+style="position:fixed; bottom:0; left:0; right:0; background:rgb(0, 138, 173); color:black; padding:20px; box-shadow:0 -4px 12px rgba(0, 0, 0, 0.15); z-index:1000; transform:translatey(100%); transition:transform 0.5s ease-out">
+
+<div class="cookie-content"
+style="max-width:1200px; margin:0 auto; display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between">
+
+<div class="cookie-text"
+style="flex:1; min-width:300px; padding-right:20px">
+
+### Condor uses cookies
+
+We use strictly necessary cookies to solely to support core
+functionality and customise content for you. We do not use cookies for
+marketing, analytics, or traffic analysis. By clicking "Accept", you
+consent to our use of cookies. If you reject cookies you cannot use the
+Condor website. See the NSHD website
+<a href="https://skylark.ucl.ac.uk/NSHD/cookies/" class="link"
+style="color:sandybrown; text-decoration:none">Cookie Policy</a>
+
+</div>
+
+<div class="cookie-actions" style="display:flex; flex-wrap:wrap">
+
+Reject
+
+Accept
+
+</div>
+
+</div>
+
+</div>
+
+<table
+style="width:90%; display:inline-table; border:0; border-style:none; border-collapse:collapse"
+width="90%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="padding: 10px; border: 0; width: 140px" width="140"><a
+href="https://skylark.ucl.ac.uk/NSHD/access/help-guides/">Help</a>
+<strong>Problems?</strong> <a
+href="mailto:MRCLHA.Swiftinfo@ucl.ac.uk">Contact LHA</a><br />
+Version: Condor 3.0</td>
+</tr>
+</tbody>
+</table>
