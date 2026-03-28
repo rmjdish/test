@@ -390,4 +390,5 @@ Version: Condor 3.0</td>
 </tr>
 </tbody>
 </table>
-![Histogram/Bar Chart Plot](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAeAAAAFACAYAAABk...)
+<img alt="Histogram/Bar Chart Plot"
+     src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAeAAAAFACAYAAABk...">
