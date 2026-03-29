@@ -140,6 +140,8 @@ circumstances [24]</a> | Legacy Category |
 <div class="skip-filter"
 style="border-collapse:separate; padding-top:0.6em; padding-right:0.5em; padding-bottom:0.6em; padding-left:0.5em; margin:2em">
 
+![Plot](a1anttr_hbg99_img1.png)
+
 <table
 style="width:80%; display:inline-table; border:none; border-style:none; border-collapse:collapse; table-layout:fixed; padding-top:10px; padding-right:10px; padding-bottom:10px; padding-left:10px; margin:2px"
 width="80%">
