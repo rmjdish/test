@@ -11,6 +11,9 @@ data-align="left" alt="National Survey of Health &amp; Development" />
 
 #   MRC National Survey of Health and Development  
 
+![Plot](a1anttr_hbg99_img1.png)
+
+
 <img src="./images/ukrimrc.png"
 style="display:inline; max-width:15%; height:auto; padding-top:20px; margin:0 auto; float:left"
 data-align="left" alt="UKRI" />
