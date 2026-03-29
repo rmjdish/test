@@ -5,13 +5,13 @@ width="95%">
 <div class="banner" bgcolor="rgb(46, 45, 98)"
 style="display:inline; background-color:rgb(46, 45, 98); padding-top:4px; padding-bottom:4px; max-width:90%; border-width:0; margin:0">
 
-<img src="NSHDLogo.png"
+<img src="./images/NSHDLogo.png"
 style="display:inline; max-width:15%; height:auto; padding-top:20px; margin:0 auto; float:left"
 data-align="left" alt="National Survey of Health &amp; Development" />
 
 #   MRC National Survey of Health and Development  
 
-<img src="ukrimrc.png"
+<img src="./images/ukrimrc.png"
 style="display:inline; max-width:15%; height:auto; padding-top:20px; margin:0 auto; float:left"
 data-align="left" alt="UKRI" />
 
@@ -167,9 +167,8 @@ width="80%">
 style="border-top-left-radius:10px; -webkit-border-top-left-radius:10px; -moz-border-radius-topleft:10px; border-top-right-radius:10px; -webkit-border-top-right-radius:10px; -moz-border-radius-topright:10px">
 <td
 style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 75%; word-wrap: break-word;"
-width="75%"><span class="image placeholder"
-data-original-image-src="a1anttr_hbg99_img1.png"
-data-original-image-title="">Histogram/Bar Chart Plot</span></td>
+width="75%"><img src="a1anttr_hbg99.png"
+alt="Histogram/Bar Chart Plot" /></td>
 <td
 style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
 width="140"><table
@@ -337,53 +336,3 @@ width="140"></td>
 </div>
 
 </div>
-
-<div id="cookieBanner" class="cookie-banner"
-style="position:fixed; bottom:0; left:0; right:0; background:rgb(0, 138, 173); color:black; padding:20px; box-shadow:0 -4px 12px rgba(0, 0, 0, 0.15); z-index:1000; transform:translatey(100%); transition:transform 0.5s ease-out">
-
-<div class="cookie-content"
-style="max-width:1200px; margin:0 auto; display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between">
-
-<div class="cookie-text"
-style="flex:1; min-width:300px; padding-right:20px">
-
-### Condor uses cookies
-
-We use strictly necessary cookies to solely to support core
-functionality and customise content for you. We do not use cookies for
-marketing, analytics, or traffic analysis. By clicking "Accept", you
-consent to our use of cookies. If you reject cookies you cannot use the
-Condor website. See the NSHD website
-<a href="https://skylark.ucl.ac.uk/NSHD/cookies/" class="link"
-style="color:sandybrown; text-decoration:none">Cookie Policy</a>
-
-</div>
-
-<div class="cookie-actions" style="display:flex; flex-wrap:wrap">
-
-Reject
-
-Accept
-
-</div>
-
-</div>
-
-</div>
-
-<table
-style="width:90%; display:inline-table; border:0; border-style:none; border-collapse:collapse"
-width="90%">
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr>
-<td style="padding: 10px; border: 0; width: 140px" width="140"><a
-href="https://skylark.ucl.ac.uk/NSHD/access/help-guides/">Help</a>
-<strong>Problems?</strong> <a
-href="mailto:MRCLHA.Swiftinfo@ucl.ac.uk">Contact LHA</a><br />
-Version: Condor 3.0</td>
-</tr>
-</tbody>
-</table>
