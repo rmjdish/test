@@ -5,13 +5,13 @@ height="10%" bgcolor="rgb(0, 138, 173)" width="95%">
 style="display:inline; background-color:rgb(46, 45, 98); padding-top:4px; padding-bottom:4px; max-width:90%; border-width:0; margin:0"
 bgcolor="rgb(46, 45, 98)">
 
-<img src="images/NSHDLogo.png"
+<img src="NSHDLogo.png"
 style="display:inline; max-width:15%; height:auto; padding-top:20px; margin:0 auto; float:left"
 data-align="left" alt="National Survey of Health &amp; Development" />
 
 #   MRC National Survey of Health and Development  
 
-<img src="images/ukrimrc.png"
+<img src="ukrimrc.png"
 style="display:inline; max-width:15%; height:auto; padding-top:20px; margin:0 auto; float:left"
 data-align="left" alt="UKRI" />
 
