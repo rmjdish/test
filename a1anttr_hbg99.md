@@ -168,6 +168,8 @@ width="80%">
 <tbody>
 <tr
 style="border-top-left-radius:10px; -webkit-border-top-left-radius:10px; -moz-border-radius-topleft:10px; border-top-right-radius:10px; -webkit-border-top-right-radius:10px; -moz-border-radius-topright:10px">
+![Plot](a1anttr_hbg99_img1.png)
+
 <td
 style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 75%; word-wrap: break-word;"
 width="75%"><span class="image placeholder"
