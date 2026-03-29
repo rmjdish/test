@@ -5,16 +5,13 @@ width="95%">
 <div class="banner" bgcolor="rgb(46, 45, 98)"
 style="display:inline; background-color:rgb(46, 45, 98); padding-top:4px; padding-bottom:4px; max-width:90%; border-width:0; margin:0">
 
-<img src="NSHDLogo.png"
+<img src="./images/NSHDLogo.png"
 style="display:inline; max-width:15%; height:auto; padding-top:20px; margin:0 auto; float:left"
 data-align="left" alt="National Survey of Health &amp; Development" />
 
 #   MRC National Survey of Health and Development  
 
-![Plot](a1anttr_hbg99_img1.png)
-
-
-<img src="ukrimrc.png"
+<img src="./images/ukrimrc.png"
 style="display:inline; max-width:15%; height:auto; padding-top:20px; margin:0 auto; float:left"
 data-align="left" alt="UKRI" />
 
@@ -168,8 +165,6 @@ width="80%">
 <tbody>
 <tr
 style="border-top-left-radius:10px; -webkit-border-top-left-radius:10px; -moz-border-radius-topleft:10px; border-top-right-radius:10px; -webkit-border-top-right-radius:10px; -moz-border-radius-topright:10px">
-![Plot](a1anttr_hbg99_img1.png)
-
 <td
 style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 75%; word-wrap: break-word;"
 width="75%"><span class="image placeholder"
@@ -392,3 +387,5 @@ Version: Condor 3.0</td>
 </tr>
 </tbody>
 </table>
+
+\![Plot\](a1anttr_hbg99_img1.png)
