@@ -170,6 +170,8 @@ style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 75%; word
 width="75%"><span class="image placeholder"
 data-original-image-src="a1anttr_hbg99_img1.png"
 data-original-image-title="">Histogram/Bar Chart Plot</span></td>
+![Plot](a1anttr_hbg99_img1.png)
+
 <td
 style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
 width="140"><table
