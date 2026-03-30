@@ -1,4 +1,7 @@
-<div bgcolor="rgb(0, 138, 173)" height="10%"
+
+    | <img src="NSHDLogo.png" width="60"> | **National Survey of Health and Development ** | <img src="ukrimrc.png" width="60"> |
+    |------------------------------------|---------------------|--------------------------------------|
+    <div bgcolor="rgb(0, 138, 173)" height="10%"
 style="position:sticky; padding-top:0; padding-bottom:0; left:0; top:0; height:10%; background-color:rgb(0, 138, 173); width:95%; box-sizing:border-box"
 width="95%">
 
@@ -13,13 +16,13 @@ width="90%">
 <td style="padding: 10px; border: 0; width: 140px" width="140"><div
 class="banner" data-bgcolor="rgb(46, 45, 98)"
 style="display:inline; background-color:rgb(46, 45, 98); padding-top:4px; padding-bottom:4px; max-width:90%; border-width:0; margin:0">
-<img src="NSHDLogo.png"
+<img src="./images/NSHDLogo.png"
 style="display:inline; max-width:15%; height:auto; padding-top:20px; margin:0 auto; float:left"
 data-align="left" alt="National Survey of Health &amp; Development" />
 <h1 id="mrc-national-survey-of-health-and-development"
 style="color:black; font-size:2vw; display:inline; float:left">  MRC
 National Survey of Health and Development  </h1>
-<img src="ukrimrc.png"
+<img src="./images/ukrimrc.png"
 style="display:inline; max-width:15%; height:auto; padding-top:20px; margin:0 auto; float:left"
 data-align="left" alt="UKRI" />
 </div></td>
@@ -267,6 +270,3 @@ width="140">2696</td>
 
 </div>
 <img src='a1anttr_hbg99.png' style="display:inline; height:auto; padding-top:20px; margin:0 auto; float:left" data-align="left" alt="Variable Plot" />
-    | <img src="NSHDLogo.png" width="120"> | **National Survey of Health and Development ** | <img src="ukrimrc.png" width="120"> |
-    |------------------------------------|---------------------|--------------------------------------|
-    
