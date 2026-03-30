@@ -312,4 +312,10 @@ data-align="left" alt="Plot" />
 </div>
 
 </div>
-<img src='a1anttr_hbg99.png' style="display:inline; height:auto; padding-top:20px; margin:0 auto; float:left" data-align="left" alt="UKRI" />
+<img src="a1anttr_hbg99.png" 
+style="display:inline; height:auto; padding-top:20px; margin:0 auto; float:left" 
+data-align="left" alt="UKRI" />
+
+<img src="./images/ukrimrc.png"
+style="display:inline; max-width:15%; height:auto; padding-top:20px; margin:0 auto; float:left"
+data-align="left" alt="UKRI" />
