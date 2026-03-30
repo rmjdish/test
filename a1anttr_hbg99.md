@@ -267,3 +267,6 @@ width="140">2696</td>
 
 </div>
 <img src='a1anttr_hbg99.png' style="display:inline; height:auto; padding-top:20px; margin:0 auto; float:left" data-align="left" alt="Variable Plot" />
+    | <img src="NSHDLogo.png" width="120"> | **National Survey of Health and Development ** | <img src="ukrimrc.png" width="120"> |
+    |------------------------------------|---------------------|--------------------------------------|
+    
