@@ -305,10 +305,6 @@ width="140">2696</td>
 
 ## Histogram/Bar chart
 
-<img src="./729b8362d030c1b28d55648151d7466991242ad8.png"
-style="display:inline; height:auto; padding-top:20px; margin:0 auto; float:left"
-data-align="left" alt="Plot" />
-
 </div>
 
 </div>
