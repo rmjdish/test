@@ -1,4 +1,4 @@
-| <img src="NSHDLogo.png" width="200"> | **National Survey of Health and Development ** | <img src="ukrimrc.png" width="200"> |
+| <img src="NSHDLogo.png" style="display:inline; max-width:15%; height:auto; padding-top:20px; margin:0 auto; float:left" data-align="left" alt="National Survey of Health &amp; Development"> | **National Survey of Health and Development ** | <img src="ukrimrc.png" width="200"> |
 |------------------------------------|---------------------|--------------------------------------|
 <div bgcolor="rgb(0, 138, 173)" height="10%"
 style="position:sticky; padding-top:0; padding-bottom:0; left:0; top:0; height:10%; background-color:rgb(0, 138, 173); width:95%; box-sizing:border-box"
