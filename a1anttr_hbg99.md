@@ -5,13 +5,13 @@ width="95%">
 <div class="banner" bgcolor="rgb(46, 45, 98)"
 style="display:inline; background-color:rgb(46, 45, 98); padding-top:4px; padding-bottom:4px; max-width:90%; border-width:0; margin:0">
 
-<img src="NSHDLogo.png"
+<img src="./images/NSHDLogo.png"
 style="display:inline; max-width:15%; height:auto; padding-top:20px; margin:0 auto; float:left"
 data-align="left" alt="National Survey of Health &amp; Development" />
 
 #   MRC National Survey of Health and Development  
 
-<img src="ukrimrc.png"
+<img src="./images/ukrimrc.png"
 style="display:inline; max-width:15%; height:auto; padding-top:20px; margin:0 auto; float:left"
 data-align="left" alt="UKRI" />
 
@@ -303,12 +303,13 @@ width="140">2696</td>
 
 </div>
 
-## Histogram/Plot
+## Histogram/Bar chart
 
-<span class="image placeholder" original-image-src="a1anttr_hbg99.png"
-original-image-title="" align="left" height="auto"
-style="display:inline; height:auto; padding-top:20px; margin:0 auto; float:left">Plot</span>
-
-</div>
+<img src="./729b8362d030c1b28d55648151d7466991242ad8.png"
+style="display:inline; height:auto; padding-top:20px; margin:0 auto; float:left"
+data-align="left" alt="Plot" />
 
 </div>
+
+</div>
+<img align='left' alt='Plot' height='auto' src='a1anttr_hbg99.png'style='display:inline; height:auto; padding-top:20px; margin:0 auto; float:left'/>
