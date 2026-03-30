@@ -158,22 +158,6 @@ style="border-collapse:separate; padding-top:0.6em; padding-right:0.5em; padding
 <table
 style="width:80%; display:inline-table; border:none; border-style:none; border-collapse:collapse; table-layout:fixed; padding-top:10px; padding-right:10px; padding-bottom:10px; padding-left:10px; margin:2px"
 width="80%">
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr
-style="border-top-left-radius:10px; -webkit-border-top-left-radius:10px; -moz-border-radius-topleft:10px; border-top-right-radius:10px; -webkit-border-top-right-radius:10px; -moz-border-radius-topright:10px">
-<td
-style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 75%; word-wrap: break-word;"
-width="75%"><img src="a1anttr_hbg99.png"
-alt="Histogram/Bar Chart Plot" /></td>
-<td
-style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
-width="140"><table
-style="width:80%; display:inline-table; border:none; border-style:none; border-collapse:collapse; table-layout:fixed; padding-top:10px; padding-right:10px; padding-bottom:10px; padding-left:10px; margin:2px"
-width="80%">
 <thead>
 <tr
 style="border-top-left-radius:10px; -webkit-border-top-left-radius:10px; -moz-border-radius-topleft:10px; border-top-right-radius:10px; -webkit-border-top-right-radius:10px; -moz-border-radius-topright:10px">
@@ -316,22 +300,14 @@ width="140">2696</td>
 </tr>
 </tbody>
 </table>
-<p>Statistics relate to plotted values only.</p></td>
-</tr>
-<tr
-style="border-bottom-left-radius:10px; -webkit-border-bottom-left-radius:10px; -moz-border-radius-bottomleft:10px; border-bottom-right-radius:10px; -webkit-border-bottom-right-radius:10px; -moz-border-radius-bottomright:10px">
-<td
-style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
-width="140">Missing values have been removed and low cell counts
-excluded</td>
-<td
-style="text-align: left; padding: 5px; border: 0 solid #98A69A; width: 140px; word-wrap: break-word;"
-width="140"></td>
-</tr>
-</tbody>
-</table>
 
 </div>
+
+## Histogram/Plot
+
+<span class="image placeholder" original-image-src="a1anttr_hbg99.png"
+original-image-title="" align="left" height="auto"
+style="display:inline; height:auto; padding-top:20px; margin:0 auto; float:left">Plot</span>
 
 </div>
 
