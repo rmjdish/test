@@ -41,8 +41,7 @@ There are no associated variables.
 
 |  |  |
 |:---|:---|
-| Questionnaires | <a href="https://skylark.ucl.ac.uk/NSHD/exploring/nshd-questionnaires/"
-</a> |
+| Questionnaires | <a href="https://skylark.ucl.ac.uk/NSHD/exploring/nshd-questionnaires/"</a> |
 
 ## Category Memberships
 
