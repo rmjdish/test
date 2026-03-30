@@ -316,6 +316,6 @@ data-align="left" alt="Plot" />
 style="display:inline; height:auto; padding-top:20px; margin:0 auto; float:left" 
 data-align="left" alt="UKRI" />
 
-<img src="./images/ukrimrc.png"
+<img src="ukrimrc.png"
 style="display:inline; max-width:15%; height:auto; padding-top:20px; margin:0 auto; float:left"
 data-align="left" alt="UKRI" />
