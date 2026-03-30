@@ -243,4 +243,4 @@ width="140">2696</td>
 
 </div>
 <img src='a1anttr_hbg99.png' style="display:inline; height:auto; padding-top:20px; margin:0 auto; float:left" data-align="left" alt="Variable Plot" />
-# Missing values have been removed and low cell counts excluded.
+## Missing values have been removed and low cell counts excluded.
