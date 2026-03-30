@@ -1,4 +1,4 @@
-| <img src="NSHDLogo.png" width="200"> | <span style="font-size:20px;">National Survey of Health and Development </span>' | <img src="ukrimrc.png" width="200"> |
+| <img src="NSHDLogo.png" width="200"> | <span style="font-size:40px;">National Survey of Health and Development </span> | <img src="ukrimrc.png" width="200"> |
 |------------------------------------|---------------------|--------------------------------------|
 <div bgcolor="rgb(0, 138, 173)" height="10%"
 style="position:sticky; padding-top:0; padding-bottom:0; left:0; top:0; height:10%; background-color:rgb(0, 138, 173); width:95%; box-sizing:border-box"
