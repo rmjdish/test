@@ -234,6 +234,8 @@ width="140">2696</td>
 </tr>
 </tbody>
 </table>
+Statistics relate to plotted values only.
+
 
 </div>
 
@@ -242,4 +244,4 @@ width="140">2696</td>
 </div>
 
 </div>
-<img src='a1anttr_hbg99.png' style="display:inline; height:auto; padding-top:20px; margin:0 auto; float:left" data-align="left" alt="Variable Plot" /><p>## Missing values have been removed and low cell counts excluded.
+<img src='a1anttr_hbg99.png' style="display:inline; height:auto; padding-top:20px; margin:0 auto; float:left" data-align="left" alt="Variable Plot" /><p>Missing values have been removed and low cell counts excluded.
